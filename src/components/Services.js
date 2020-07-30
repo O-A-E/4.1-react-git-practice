@@ -4,6 +4,7 @@ class Services extends React.Component
 {
     render()
     {
+<<<<<<< HEAD
 
         return (
             <>
